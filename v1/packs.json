@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "ja-keita.zip", "bytes": 93462775, "sha256": "ad65107c669342c07de5bc2b51db7afd4cf7c8f9991b23d54cb1a9b0dc148d04"}
+  ]
+}

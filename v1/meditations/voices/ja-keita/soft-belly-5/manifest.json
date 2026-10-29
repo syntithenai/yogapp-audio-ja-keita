@@ -1,0 +1,202 @@
+{
+  "id": "soft-belly-5",
+  "voiceId": "ja-keita",
+  "edgeVoice": "ja-JP-KeitaNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 158,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 1,
+      "text": "快適な座席を見つけるか、気分が良い場合は横になってください。",
+      "file": "c001.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 2,
+      "text": "手を休めましょう。",
+      "file": "c002.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 3,
+      "text": "目を柔らかくするか、目を閉じてください。",
+      "file": "c003.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 4,
+      "text": "ゆっくりと息を吸い込みます。",
+      "file": "c004.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 5,
+      "text": "そして息を長く吐く。",
+      "file": "c005.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 6,
+      "text": "必要に応じて、下腹部に手を当ててください。",
+      "file": "c006.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 7,
+      "text": "お腹がホールドされているかどうかに注目してください。",
+      "file": "c007.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 8,
+      "text": "[休止:20]",
+      "file": "c008.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 9,
+      "text": "次に息を吸い込んだら、腹部を膨らませます。",
+      "file": "c009.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 10,
+      "text": "息を吐きながら、絞らずにそのまま下ろします。",
+      "file": "c010.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 11,
+      "text": "[休止:20]",
+      "file": "c011.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 12,
+      "text": "また。柔らかいお腹の中。",
+      "file": "c012.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 13,
+      "text": "柔らかいお腹が出てきました。",
+      "file": "c013.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 14,
+      "text": "[休止:25]",
+      "file": "c014.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 15,
+      "text": "心が主張するなら、体が主導権を握るようにしましょう。",
+      "file": "c015.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 16,
+      "text": "拡大。リリース。",
+      "file": "c016.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 17,
+      "text": "[休止:29]",
+      "file": "c017.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 18,
+      "text": "肩が下がります。",
+      "file": "c018.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 19,
+      "text": "顎が柔らかい。",
+      "file": "c019.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 20,
+      "text": "腹は自由です。",
+      "file": "c020.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 21,
+      "text": "[休止:25]",
+      "file": "c021.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 22,
+      "text": "静かに腹式呼吸を 10 回続けてください。",
+      "file": "c022.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 23,
+      "text": "[休止:45]",
+      "file": "c023.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 24,
+      "text": "訪れた安らぎに注目してください。",
+      "file": "c024.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 25,
+      "text": "[休止:20]",
+      "file": "c025.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 26,
+      "text": "ここで休んでください。",
+      "file": "c026.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 27,
+      "text": "[休止:27]",
+      "file": "c027.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 28,
+      "text": "もう一度ゆっくり呼吸してください。",
+      "file": "c028.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 29,
+      "text": "指を小刻みに動かします。",
+      "file": "c029.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 30,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c030.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 31,
+      "text": "これを少しだけ持ち歩きましょう。",
+      "file": "c031.ogg",
+      "durationSec": 4.776
+    }
+  ]
+}

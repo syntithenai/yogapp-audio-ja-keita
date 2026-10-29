@@ -1,0 +1,190 @@
+{
+  "id": "confidence-5",
+  "voiceId": "ja-keita",
+  "edgeVoice": "ja-JP-KeitaNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 159,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 1,
+      "text": "快適な座席を見つけるか、気分が良い場合は横になってください。",
+      "file": "c001.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 2,
+      "text": "手を休めましょう。",
+      "file": "c002.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 3,
+      "text": "目を柔らかくするか、目を閉じてください。",
+      "file": "c003.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 4,
+      "text": "ゆっくりと息を吸い込みます。",
+      "file": "c004.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 5,
+      "text": "そして息を長く吐く。",
+      "file": "c005.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 6,
+      "text": "坐骨や足を感じてください。",
+      "file": "c006.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 7,
+      "text": "あなたの下には安定した基盤があります。",
+      "file": "c007.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 8,
+      "text": "[休止:22]",
+      "file": "c008.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 9,
+      "text": "硬くすることなく背骨を伸ばします。",
+      "file": "c009.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 10,
+      "text": "柔らかい顔。柔らかいお腹。強いセンター。",
+      "file": "c010.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 11,
+      "text": "[休止:22]",
+      "file": "c011.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 12,
+      "text": "これらのフレーズを黙って試してみるか、ただ聞いてください。",
+      "file": "c012.ogg",
+      "durationSec": 7.992
+    },
+    {
+      "index": 13,
+      "text": "私は会うべきものには会うことができます。",
+      "file": "c013.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 14,
+      "text": "[休止:22]",
+      "file": "c014.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 15,
+      "text": "成ることを急ぐ必要はありません。",
+      "file": "c015.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 16,
+      "text": "[休止:22]",
+      "file": "c016.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 17,
+      "text": "私は自分の次の正直な一歩を信じています。",
+      "file": "c017.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 18,
+      "text": "[休止:28]",
+      "file": "c018.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 19,
+      "text": "鎧としてではなく、胸の温かさとして自信を呼吸してください。",
+      "file": "c019.ogg",
+      "durationSec": 8.928
+    },
+    {
+      "index": 20,
+      "text": "[休止:28]",
+      "file": "c020.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 21,
+      "text": "ありふれた課題に安定して対処している自分を見てください。",
+      "file": "c021.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 22,
+      "text": "[休止:33]",
+      "file": "c022.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 23,
+      "text": "呼吸に戻ります。",
+      "file": "c023.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 24,
+      "text": "安定した。十分。",
+      "file": "c024.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 25,
+      "text": "[休止:28]",
+      "file": "c025.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 26,
+      "text": "もう一度ゆっくり呼吸してください。",
+      "file": "c026.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 27,
+      "text": "指を小刻みに動かします。",
+      "file": "c027.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 28,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c028.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 29,
+      "text": "これを少しだけ持ち歩きましょう。",
+      "file": "c029.ogg",
+      "durationSec": 4.776
+    }
+  ]
+}

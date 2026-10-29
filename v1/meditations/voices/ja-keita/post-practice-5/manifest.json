@@ -1,0 +1,142 @@
+{
+  "id": "post-practice-5",
+  "voiceId": "ja-keita",
+  "edgeVoice": "ja-JP-KeitaNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 109,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 1,
+      "text": "あなたは練習しました。さあ、体に受け取ってもらいましょう。",
+      "file": "c001.ogg",
+      "durationSec": 9.672
+    },
+    {
+      "index": 2,
+      "text": "横になったり、楽に座ったりできます。",
+      "file": "c002.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 3,
+      "text": "目を閉じてください。",
+      "file": "c003.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 4,
+      "text": "[休止:31]",
+      "file": "c004.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 5,
+      "text": "暖かさ、振動、または静かな疲労をスキャンします。",
+      "file": "c005.ogg",
+      "durationSec": 8.736
+    },
+    {
+      "index": 6,
+      "text": "採点はありません。ただ気づいてください。",
+      "file": "c006.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 7,
+      "text": "[休止:45]",
+      "file": "c007.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 8,
+      "text": "長く息を吐きます。",
+      "file": "c008.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 9,
+      "text": "また。",
+      "file": "c009.ogg",
+      "durationSec": 2.16
+    },
+    {
+      "index": 10,
+      "text": "[休止:38]",
+      "file": "c010.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 11,
+      "text": "体が現れてくれてありがとう。",
+      "file": "c011.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 12,
+      "text": "[休止:31]",
+      "file": "c012.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 13,
+      "text": "力を床に注ぎ込みましょう。",
+      "file": "c013.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 14,
+      "text": "[休止:45]",
+      "file": "c014.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 15,
+      "text": "澄んだ息を一度吸い込みます。",
+      "file": "c015.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 16,
+      "text": "完全に息を吐き出す。",
+      "file": "c016.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 17,
+      "text": "[休止:38]",
+      "file": "c017.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 18,
+      "text": "もう一度ゆっくり呼吸してください。",
+      "file": "c018.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 19,
+      "text": "指を小刻みに動かします。",
+      "file": "c019.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 20,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c020.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 21,
+      "text": "これを少しだけ持ち歩きましょう。",
+      "file": "c021.ogg",
+      "durationSec": 4.776
+    }
+  ]
+}
